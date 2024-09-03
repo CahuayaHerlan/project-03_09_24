@@ -1,0 +1,133 @@
+* {margin: 0px;}
+
+.sombrero1
+{
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    top: 5px;
+    left: 45%;
+}
+
+
+.cara
+{
+    position: fixed;
+    background-color: brown;
+    border-radius: 100%;
+    width: 300px;
+    height: 300px;
+    top: 145px;
+    left: 39%;
+}
+
+.sombrero2
+{
+    background-color: blueviolet;
+    border-radius: 70%;
+    width: 500px;
+    height: 76px;
+    position: fixed;
+    top: 100px;
+    left: 32%;
+}
+
+.ojo1
+{
+    position: absolute;
+    background-color: yellow;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    top: 60px;
+    left: 50px;
+}
+
+.ojo2
+{
+    position: absolute;
+    background-color: yellow;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    top: 60px;
+    left: 175px;
+}
+
+.ojito1
+{
+    position: relative;
+    border-radius: 100%;
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    top: 30px;
+    left: 25px;
+}
+
+.ojito2
+{
+    position: relative;
+    border-radius: 100%;
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    top: 30px;
+    left: 25px;
+}
+
+.boca
+{
+    position: relative;
+    border-radius: 75%;
+    background-color: green;
+    width: 175px;
+    height: 50px;
+    top: 190px;
+    left: 60px;
+}
+
+.labio
+{
+    position: relative;
+    border-radius: 75%;
+    background-color: black;
+    width: 120px;
+    height: 20px;
+    top: 14px;
+    left: 30px;
+}
+
+.moño1
+{
+    position: absolute;
+    border-radius: 100%;
+    background-color: blueviolet;
+    width: 60px;
+    height: 60px;
+    top:275px ;
+    left: 115px;
+}
+
+.moño2
+{
+    position: absolute;
+    border-radius: 100%;
+    background-color: blueviolet;
+    width: 100px;
+    height: 50px;
+    top:280px ;
+    left: 25px;
+}
+
+.moño3
+{
+    position: absolute;
+    border-radius: 100%;
+    background-color: blueviolet;
+    width: 100px;
+    height: 50px;
+    top:280px ;
+    left: 170px;
+}
